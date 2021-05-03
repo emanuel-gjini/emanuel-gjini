@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @emanuel-gjini
-- 👀 I’m interested in robotics, AI
+- 👀 I’m interested in robotics and AI
 - 🌱 I’m currently learning ML and Neural Networks
 - 💞️ I’m looking to collaborate on exciting robotics & research projects
 - 📫 How to reach me ? Email me at: emanuel_gjini@yahoo.com
