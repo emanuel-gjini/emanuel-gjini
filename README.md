@@ -1,17 +1,12 @@
-<style>
-    a:hover {
-        text-decoration: none;
-    }
-</style>
 <h1>👋 Hi, I’m @emanuel-gjini</h1>
 <p align="right">
   <img alt="status" src="https://github-readme-stats.vercel.app/api?username=emanuel-gjini&show_icons=true&count_private=true&theme=dark" align="right" />
 </p>
 <p align="left">
-- 👀 I’m interested in robotics and AI<br />
-- 🌱 I’m currently learning ML and Neural Networks<br />
-- 💞️ I’m looking to collaborate on exciting robotics & research projects<br />
-- 📫 How to reach me ? Email me at: emanuel_gjini@yahoo.com<br />
+- 👀 I’m interested in robotics and AI
+- 🌱 I’m currently learning ML and Neural Networks
+- 💞️ I’m looking to collaborate on exciting robotics & research projects
+- 📫 How to reach me ? Email me at: emanuel_gjini@yahoo.com
 </p>
 <div>
   <a href="https://github.com/emanuel-gjini">
