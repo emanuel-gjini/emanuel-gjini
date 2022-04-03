@@ -2,10 +2,12 @@
 <p align="right">
   <img alt="status" src="https://github-readme-stats.vercel.app/api?username=emanuel-gjini&show_icons=true&count_private=true&theme=dark" align="right" />
 </p>
-- 👀 I’m interested in robotics and AI
-- 🌱 I’m currently learning ML and Neural Networks
-- 💞️ I’m looking to collaborate on exciting robotics & research projects
-- 📫 How to reach me ? Email me at: emanuel_gjini@yahoo.com
+<p>
+- 👀 I’m interested in robotics and AI<br/>
+- 🌱 I’m currently learning ML and Neural Networks<br/>
+- 💞️ I’m looking to collaborate on exciting robotics & research projects<br/>
+- 📫 How to reach me ? Email me at: emanuel_gjini@yahoo.com<br/>
+  </p>
 <div>
   <a href="https://github.com/emanuel-gjini">
     <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white" />
@@ -31,6 +33,7 @@
   <a href="https://github.com/emanuel-gjini">
     <img alt="Nodejs" src="https://img.shields.io/badge/Nodejs-036E00?style=flat&logo=Node.js&logoColor=white" />
   </a>
+  <br />
   <a href="https://github.com/emanuel-gjini">
     <img alt="React" src="https://img.shields.io/badge/React-0f69a9?style=flat&logo=react&logoColor=white" />
   </a>
@@ -51,7 +54,7 @@
   </a>
   <a href="https://github.com/emanuel-gjini">
     <img alt="HTML" src="https://img.shields.io/badge/HTML-DD4B24?style=flat&logo=html5&logoColor=white" />
-  </a>
+  </a><br />
   <a href="https://github.com/emanuel-gjini">  
     <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
   </a>
@@ -69,7 +72,7 @@
   </a>
   <a href="https://github.com/emanuel-gjini">
     <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" />
-  </a>
+  </a> <br/>
   <a href="https://github.com/emanuel-gjini">  
     <img alt="Amazon" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
   </a>
@@ -87,7 +90,7 @@
   </a>
   <a href="https://github.com/emanuel-gjini">  
     <img alt="Buildkite" src="https://img.shields.io/badge/Buildkite-yellow?style=flat&logo=buildkite&logoColor=white" />
-  </a>
+  </a><br/>
   <a href="https://github.com/emanuel-gjini">  
     <img alt="Linux" src="https://img.shields.io/badge/Linux-FF6C0F?style=flat&logo=linux&logoColor=white" />
   </a>
