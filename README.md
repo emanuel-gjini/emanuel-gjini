@@ -30,6 +30,12 @@
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
   </a>
   <a href="https://github.com/emanuel-gjini">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-FCDC00?style=flat&logo=javascript&logoColor=white" />
+  </a>
+  <a href="https://github.com/emanuel-gjini">
+    <img alt="Jest" src="https://img.shields.io/badge/Jest-14C211?style=flat&logo=jest&logoColor=white" />
+  </a>
+  <a href="https://github.com/emanuel-gjini">
     <img alt="Nodejs" src="https://img.shields.io/badge/Nodejs-036E00?style=flat&logo=Node.js&logoColor=white" />
   </a>
   <a href="https://github.com/emanuel-gjini">
