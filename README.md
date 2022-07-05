@@ -8,7 +8,7 @@
   <p align="right">
   <img alt="status" src="https://github-readme-stats.vercel.app/api?username=emanuel-gjini&show_icons=true&count_private=true&theme=dark" align="right" /></p>
 <div>
-  <a href="https://github.com/emanuel-gjini">
+  <a>
     <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white" />
   </a>
 <a href="https://github.com/emanuel-gjini">
