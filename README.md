@@ -3,7 +3,6 @@
 - 👀 Always learning about new stuff<br />
 - 🦾 Currently learning ML and Neural Networks<br />
 - 👨‍💻 Been designing & building software solutions since <b>2015</b><br />
-- 📫 How to reach me ? Email me at: emanuel_gjini@yahoo.com<br />
 
 <h3>Experienced with:</h3>
 <div>
