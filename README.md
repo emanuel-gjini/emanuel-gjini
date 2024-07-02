@@ -1,8 +1,7 @@
 <h1>👋 Hi, I’m @emanuel-gjini</h1>
 <p>
-- 👀 I’m interested in robotics and AI<br/>
+- 👀 I’m interested in robotics<br/>
 - 🌱 I’m currently learning ML and Neural Networks<br/>
-- 💞️ I’m looking to collaborate on exciting robotics & research projects<br/>
 - 📫 How to reach me ? Email me at: emanuel_gjini@yahoo.com<br/>
   </p>
 <div>
@@ -12,14 +11,11 @@
 <a>
     <img alt="Go" src="https://img.shields.io/badge/GO-017D9C?style=flat&logo=go&logoColor=white" />
   </a>
+  <a>
+    <img alt="Rust" src="https://img.shields.io/badge/Rust-white?style=flat&logo=rust&logoColor=black" />
+    </a>
  <a>
-    <img alt="C" src="https://img.shields.io/badge/C-239120?style=flat&logo=c&logoColor=white" />
-  </a>
-  <a>
-    <img alt="C++" src="https://img.shields.io/badge/C++-239120?style=flat&logo=cplusplus&logoColor=white" />
-  </a>
-  <a>
-    <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+    <img alt="C/C++/C#" src="https://img.shields.io/badge/C%2FC%2B%2B%2FC%23-239120?style=flat" />
   </a>
   <a>
     <img alt="Php" src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
@@ -42,20 +38,8 @@
   <a>
     <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />
   </a>
-    <a>
-    <img alt="Ionic" src="https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white" />
-  </a>
-  <a>
-    <img alt="React Native" src="https://img.shields.io/badge/React_Native-0f69a9?style=flat&logo=react&logoColor=white" />
-    </a>
-  <a>
-    <img alt="Css" src="https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white" />
-  </a>
   <a>
     <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" />
-  </a>
-  <a>
-    <img alt="HTML" src="https://img.shields.io/badge/HTML-DD4B24?style=flat&logo=html5&logoColor=white" />
   </a>
   <a>  
     <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
@@ -76,16 +60,13 @@
     <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" />
   </a>
   <a>  
-    <img alt="Amazon" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+    <img alt="Amazon Web Services" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
   </a>
   <a>  
     <img alt="Docker" src="https://img.shields.io/badge/Docker-46a2f1?style=flat&logo=docker&logoColor=white" />
   </a>
   <a>  
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  </a>
-  <a>  
-    <img alt="Github" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" />
   </a>
   <a>  
     <img alt="Github actions" src="https://img.shields.io/badge/Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
