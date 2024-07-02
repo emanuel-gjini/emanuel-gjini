@@ -1,8 +1,8 @@
 <h1>👋 Hi, I’m @emanuel-gjini</h1>
 - ⛰️ An adventure addict<br />
 - 👀 Always learning about new stuff<br />
-- 🦾 Currently learning ML and Neural Networks<br />
-- 👨‍💻 Been designing & building software solutions since <b>2015</b><br />
+- 🧪 Currently experimenting with object detection models<br />
+- 👨‍💻 Designing & building software solutions since 2015
 
 <h3>Experienced with:</h3>
 <div>
