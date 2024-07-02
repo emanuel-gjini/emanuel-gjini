@@ -3,7 +3,7 @@
 🎣 Obsessed with fishing in mountain lakes<br />
 🚣🏻‍♂️ Whitewater rafter<br />
 👀 Always learning about new stuff<br />
-🧪 Currently experimenting with object detection neural network models<br />
+🧪 Currently experimenting with object detection neural networks<br />
 👨‍💻 Designing & building software solutions since 2015
 
 <h3>Experienced with:</h3>
