@@ -4,7 +4,7 @@
 🚣🏻‍♂️ Whitewater rafter<br />
 👀 Always learning about new stuff<br />
 🧪 Currently experimenting with object detection neural networks<br />
-👨‍💻 Designing & building software solutions since 2012
+👨‍💻 Designing & building software solutions since 2013
 
 <h3>Experienced with:</h3>
 <div>
