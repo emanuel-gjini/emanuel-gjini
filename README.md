@@ -1,6 +1,6 @@
 <h1>👋 Hi, I’m @emanuel-gjini</h1>
 ⛰️ Hiker<br />
-🎣 Obsessed with fishing in mountain lakes<br />
+🎣 Fishing in mountain lakes<br />
 🚣🏻‍♂️ Whitewater rafter<br />
 👀 Always learning about new stuff<br />
 🧪 Currently experimenting with object detection neural networks<br />
