@@ -1,10 +1,9 @@
 <h1>👋 Hi, I’m @emanuel-gjini</h1>
-⛰️ Hiker<br />
-🎣 Fishing in mountain lakes<br />
-🚣🏻‍♂️ Whitewater rafter<br />
-👀 Always learning about new stuff<br />
-🧪 Currently experimenting with object detection neural networks<br />
-👨‍💻 Designing & building software solutions since 2013
+⛰️ Hiker, lake fisherman, occasional rafter
+👨‍💻 Building software since 2013
+🧪 Playing around with object detection lately
+📚 Always learning — about tech, life, and everything in between
+😎 Trying to keep things simple and fun
 
 <h3>Experienced with:</h3>
 <div>
