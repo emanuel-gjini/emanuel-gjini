@@ -8,13 +8,13 @@
 <h3>Experienced with:</h3>
 <div>
     <a>
+        <img alt="Rust" src="https://img.shields.io/badge/Rust-F74B01?style=flat&logo=rust&logoColor=white" />
+    </a>
+    <a>
         <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white" />
     </a>
     <a>
         <img alt="Go" src="https://img.shields.io/badge/GO-017D9C?style=flat&logo=go&logoColor=white" />
-    </a>
-    <a>
-        <img alt="Rust" src="https://img.shields.io/badge/Rust-F74B01?style=flat&logo=rust&logoColor=white" />
     </a>
     <a>
         <img alt="C/C++/C#" src="https://img.shields.io/badge/C%2FC%2B%2B%2FC%23-239120?style=flat" />
