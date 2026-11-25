@@ -1,8 +1,4 @@
 <h1>👋 Hi, I’m @emanuel-gjini</h1>
-<a href="https://meatproxy.me/c/49b4q">
-    <img src="https://meatproxy.me/badge/c/49b4q.svg" alt="Certified Thinker" height="32" />
-</a>
-<br />
 ⛰️ Hiker, lake fisherman, occasional rafter<br />
 👨‍💻 Building software since 2013<br />
 🧪 Playing around with object detection and neural networks lately<br />
@@ -10,6 +6,7 @@
 😎 Trying to keep things simple and fun<br />
 
 <h3>Experienced with:</h3>
+[![Certified Thinker](https://img.shields.io/badge/Certified-Thinker-blue)](https://meatproxy.me/c/49b4q)
 <div>
     <a>
         <img alt="Rust" src="https://img.shields.io/badge/Rust-F74B01?style=flat&logo=rust&logoColor=white" />
