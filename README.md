@@ -3,10 +3,8 @@
 👨‍💻 Building software since 2013<br />
 🧪 Playing around with object detection and neural networks lately<br />
 📚 Always learning — about tech, life, and everything in between<br />
-😎 Trying to keep things simple and fun<br />
 
 <h3>Experienced with:</h3>
-[![Certified Thinker](https://img.shields.io/badge/Certified-Thinker-blue)](https://meatproxy.me/c/49b4q)
 <div>
     <a>
         <img alt="Rust" src="https://img.shields.io/badge/Rust-F74B01?style=flat&logo=rust&logoColor=white" />
