@@ -1,6 +1,6 @@
 <h1>👋 Hi, I’m @emanuel-gjini</h1>
 ⛰️ Hiker, lake fisherman, occasional rafter<br />
-👨‍💻 Building software since 2013<br />
+👨‍💻 Building software & hardware since 2013<br />
 🧪 Playing around with object detection and neural networks lately<br />
 📚 Always learning — about tech, life, and everything in between<br />
 
