@@ -1,5 +1,8 @@
 <h1>👋 Hi, I’m @emanuel-gjini</h1>
-[![Certified Thinker](https://meatproxy.me/badge/c/49b4q.svg)](https://meatproxy.me/c/49b4q)
+<a href="https://meatproxy.me/c/49b4q">
+    <img src="https://meatproxy.me/badge/c/49b4q.svg" alt="Certified Thinker" height="32" />
+</a>
+<br />
 ⛰️ Hiker, lake fisherman, occasional rafter<br />
 👨‍💻 Building software since 2013<br />
 🧪 Playing around with object detection and neural networks lately<br />
